@@ -9,7 +9,7 @@
 
 Um bot simples para whatsapp que está em desenvolvimento para animar os dias do seu grupo!
 
-Deseja add o bot no seu gp? Entre em contato por aqui!
+Qualquer dúvida, entre em contato comigo!
 - [+55 81 98923680](https://wa.me/558198923680)
 
 Grupo ofc para usar e tirar duvidas sobre o bot!!
@@ -22,9 +22,11 @@ Grupo ofc para usar e tirar duvidas sobre o bot!!
 > pkg install nodejs -y
 > pkg install nodejs-lst -y
 > pkg install git -y
+> pkg install python -y
 > termux-setup-storage
-> git clone https://github.com/Bielzinkkjj/Bielzinho-bot.git
-> cd Bielzinho-bot
+> cd /sdcard
+> git clone https://github.com/Josival321/aleatory.git
+> cd /sdcard/aleatory
 > bash install.sh
 > sh start.sh
 ```
