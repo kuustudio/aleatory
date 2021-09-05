@@ -1,10 +1,10 @@
-# Bielzinho Bot 😁
+# 🌀 Aleatory Bot 🌀
 <div align="center">
-<img src="https://i.ibb.co/qYKwd95/535c36eba520.jpg" alt="Bielzinho Bot" width="300" />
+<img src="https://i.ibb.co/TLySDcF/59ed60bd9936.jpg" alt="Aleatory Bot" width="300" />
 
 </div>
 <p align="center">
-  <a href="https://github.com/Bielzinkkjj"><img title="Author" src="https://img.shields.io/badge/Author-Bielzinho-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Josival321/aleatory"><img title="Author" src="https://img.shields.io/badge/Author-Bielzinho-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
 
 Um bot simples para whatsapp que está em desenvolvimento para animar os dias do seu grupo!
